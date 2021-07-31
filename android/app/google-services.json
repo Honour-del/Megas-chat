@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83250312639",
+    "project_id": "megas-c0ba5",
+    "storage_bucket": "megas-c0ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83250312639:android:921af3cb29c9d89a6edd0a",
+        "android_client_info": {
+          "package_name": "com.alien.megas_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83250312639-s0etc4ioa51kfgqrgqlccfsvsn31vfhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alien.megas_chat",
+            "certificate_hash": "7218a2ee3d241b5fe4a01aeff82b88d2566eb2f2"
+          }
+        },
+        {
+          "client_id": "83250312639-moe8674avgsm1g835hq2crk4n4mjjcai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-6qT33tW-5EiTK5wnyRzxoeIR0Z8YGIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83250312639-moe8674avgsm1g835hq2crk4n4mjjcai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
